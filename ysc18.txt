@@ -1,0 +1,25 @@
+{
+    "storeHouse": [
+        {
+            "sourceName": "❤自选仓库",
+            "sourceUrl": "https://gitee.com/xxz1314/iptvi/raw/m3u8/yscxl.json"
+        },        
+        {
+            "sourceName": "❤心魔仓库",
+            "sourceUrl": "https://raw.gitmirror.com/yw88075/tvbox/main/ywxl.json"
+        },
+		{
+            "sourceName": "仓库镜像一",
+            "sourceUrl": "https://jihulab.com/yw88075/tvbox/-/raw/main/ywxl.json"
+        },
+		{
+            "sourceName": "仓库镜像二",
+            "sourceUrl": "https://gitee.com/yw88075/tvbox1/raw/main/ywxl.json"
+        },
+		{
+            "sourceName": "18",
+            "sourceUrl": "https://agit.ai/gggwzj/gggdeng/raw/branch/master/18.json"
+        }             
+        
+    ]
+}
